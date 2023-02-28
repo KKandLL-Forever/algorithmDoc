@@ -1,0 +1,11 @@
+# gitignore template for Vue.js projects
+#
+# Recommended template: Node.gitignore
+
+docs/_book
+
+test/
+dist
+.idea
+.xml
+
